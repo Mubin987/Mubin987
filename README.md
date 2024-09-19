@@ -41,3 +41,4 @@ I have a solid grasp of the Agile development process and hands-on experience wi
 ### How to reach me ?
 
 [<img src="./linkedin_icon.png" width="30" height="30">](https://www.linkedin.com/in/muhammad-mubin-farid-a5a352259/)
+[<img src="./insta_icon.png" width="30" height="30">](https://www.instagram.com/mubin.1223/)
