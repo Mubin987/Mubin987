@@ -8,10 +8,9 @@
 I have a solid grasp of the Agile development process and hands-on experience with changing requirements and feature sets. I'm comfortable participating in Scrum, Sprint Planning, Retrospectives, and other key meetings to keep projects on track. With strong skills in both frontend and backend development and a good understanding of the Software Development Life Cycle. I am always seeking new challenges and opportunities to learn and grow as an engineer. I am excited to bring my skills and expertise to a dynamic and forward-thinking team.
 </p>
 
-# 📊 GitHub Stats:
+📊 **GitHub Stats:**
 ![](https://github-readme-stats.vercel.app/api?username=mubin987&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mubin987&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mubin987&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
 
