@@ -18,12 +18,12 @@ I have a solid grasp of the Agile development process and hands-on experience wi
 
 ### Front-end development:
 - HTML | CSS | JS
-- Bootstrap
+- Bootstrap | Tailwind CSS | Material UI
 - jQuery
 - React.js
 
 ### Back-end development:
-- Node.js | Express.js
+- Node.js | Express.js | FastAPI
 - .NET | MVC | SignalR | Background Services
 
 
@@ -33,6 +33,7 @@ I have a solid grasp of the Agile development process and hands-on experience wi
 ### Tools:
 - VS Code
 - Visual Studio
+- Amazon Web Services
 - JMeter
 - JIRA
 - ClickUp
