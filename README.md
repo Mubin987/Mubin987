@@ -83,6 +83,7 @@ I enjoy building reliable systems, automating repetitive work, troubleshooting p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="ssms.png" height="40" alt="SSMS" />
 </p>
 
 **PostgreSQL • MySQL • MongoDB • SQL Server**
@@ -92,12 +93,13 @@ I enjoy building reliable systems, automating repetitive work, troubleshooting p
 ### 🤝 Engineering & Collaboration
 
 <p>
-  <img src="https://cdn.simpleicons.org/jira/0052CC" width="40" height="40" alt="Jira" style="vertical-align: middle; margin-right: 12px;"/>
-  <img src="azure-boards.svg" width="40" height="40" alt="Azure DevOps" style="vertical-align: middle; margin-right: 12px;"/>
-  <img src="clickup.svg" width="40" height="40" alt="ClickUp" style="vertical-align: middle; margin-right: 12px;"/>
-  <img src="servicenow.svg" width="60" height="40" alt="ServiceNow" style="background-color: #616e5c80; back padding: 8px 12px; border-radius: 16px; vertical-align: middle;"/>
+  <img src="https://cdn.simpleicons.org/jira/0052CC" width="40" height="40" alt="Jira" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="azure-boards.svg" width="40" height="40" alt="Azure DevOps" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="clickup.svg" width="40" height="40" alt="ClickUp" style="vertical-align: middle;"/>
+  <img src="servicenow.png" height="40" alt="ServiceNow" 
+  style=" vertical-align: middle;"/>
 </p>
-
+-
 
 
 **Jira • Azure Boards • ServiceNow • ClickUp • Agile/Scrum • Sprint Planning • Incident Management • Root Cause Analysis**
