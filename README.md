@@ -65,7 +65,7 @@ I enjoy building reliable systems, automating repetitive work, troubleshooting p
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/github/000000" width="40" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"
        width="40" height="40" alt="Azure DevOps"/>
   <img src="https://cdn.simpleicons.org/grafana/F46800" width="40" height="40" alt="Grafana"/>
@@ -92,12 +92,13 @@ I enjoy building reliable systems, automating repetitive work, troubleshooting p
 ### 🤝 Engineering & Collaboration
 
 <p>
-  <img src="https://cdn.simpleicons.org/jira/0052CC" width="40" height="40" alt="Jira"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"
-       width="40" height="40" alt="Azure DevOps"/>
-  <img src="https://cdn.simpleicons.org/clickup/7B68EE" width="40" height="40" alt="ClickUp"/>
-  <img src="https://www.servicenow.com/content/dam/servicenow-assets/images/naas/servicenow-header-logo-white.svg" width="60" height="40" alt="ServiceNow"/>
+  <img src="https://cdn.simpleicons.org/jira/0052CC" width="40" height="40" alt="Jira" style="vertical-align: middle; margin-right: 12px;"/>
+  <img src="azure-boards.svg" width="40" height="40" alt="Azure DevOps" style="vertical-align: middle; margin-right: 12px;"/>
+  <img src="clickup.svg" width="40" height="40" alt="ClickUp" style="vertical-align: middle; margin-right: 12px;"/>
+  <img src="servicenow.svg" width="60" height="40" alt="ServiceNow" style="background-color: #616e5c80; back padding: 8px 12px; border-radius: 16px; vertical-align: middle;"/>
 </p>
+
+
 
 **Jira • Azure Boards • ServiceNow • ClickUp • Agile/Scrum • Sprint Planning • Incident Management • Root Cause Analysis**
 
